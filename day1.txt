@@ -1,0 +1,47 @@
+Day 1
+
+My final goal from this training is to become an AI Engineer in the future. To become an AI Engineer there is a pathway that needs to be followed.
+  Which is Data Science--> Machine Learning --> Deep Learning --> AI (Artifical Intelligence)
+  From that point of view, we are starting to learn Data Science and Machine Learning.
+on Day 1 we just had an introduction to Data Science and Machine Learning. 
+Like what is Data science? How does it work? How it came and everything.
+
+  For this training module, I am using a YouTube playlist from Dr. Nur Al Ahad and his course on Data science and machine learning
+
+https://youtu.be/J3Cq8QDdXbA
+
+  This is the video of the first lecture.
+
+  Learning Content on Day 1:
+
+Introduction
+
+The speaker introduces the video as a certificate course in data science learning.
+The session will be live for the next 4 hours.
+The speaker mentions Facebook, social media influencers, motivational speakers, and social media personalities.
+  
+Quality Control System 
+The speaker uses the example of a car manufacturing company’s quality control system to explain data science.
+In a manufacturing unit, there is a systematic process of collecting and analyzing data to decide which products are good and which ones are defective.
+This systematic process of collecting and analyzing data is what data science is all about.
+  
+Machine Learning
+
+Machine learning is a type of artificial intelligence that allows computers to learn without being explicitly programmed.
+Machine learning algorithms are used to make predictions based on data.
+Statistics and calculus are helpful when learning machine learning.
+  
+Data Annotation and Labeling
+
+Data annotation is the process of labeling data so that a machine-learning model can understand it.
+Data scientists spend a lot of time annotating data.
+  
+Real-world application of Machine Learning 
+
+The speaker mentions an example of how machine learning is used to detect fake social media accounts.
+Machine learning algorithms can identify fake accounts with 99.999% accuracy.
+  
+Statistical Design 
+
+The speaker talks about statistical design which is a field of statistics that deals with planning experiments and observational studies.
+There are different kinds of statistical designs such as randomized complete block design (RCBD), completely randomized design (CRD), and Latin square design (LSD).
