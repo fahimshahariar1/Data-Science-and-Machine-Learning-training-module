@@ -1,0 +1,37 @@
+on Day 2 the instructor gave us introduction to some of the Mathametics and basic terms that will be required dunring this course and further for Data Science and Machine Learning.
+
+  Tutorial Link: https://youtu.be/mFNzmQ_gC2o
+
+Topics Covered:
+
+Types of numbers: There are two main types of numbers: integers and real numbers. Integers are whole numbers (e.g., 2, 3, -5). 
+  Real numbers include integers and decimals (e.g., 3.92, -1.2482).
+  
+Rounding numbers: Rounding is approximating a number to a certain number of decimal places. The rounding process considers the digit to the right of the desired decimal place. 
+  Here are the steps to round a number:
+Identify the digit to the right of the desired decimal place.
+If that digit is 5 or greater, round the number up by adding 1 to the last significant digit.
+If that digit is less than 5, keep the last significant digit the same and remove all trailing digits to the right. For example, to round 5.69 to 1 decimal place, you would round up to 5.7 because 9 is greater than or equal to 5.
+  
+Significant figures: Significant figures are the digits in a number that are considered reliable. 
+  Here are the steps to identify significant figures:
+The first non-zero digit is always significant.
+All zeros between significant digits are significant.
+Trailing zeros behind a decimal point are significant only if there is a decimal point and a digit other than zero before them. For example, in the number 2.53, there are two significant figures (2 and 5).
+  
+Sets: A set is a collection of elements. Sets can be represented using curly braces { } and notation like {x | x ∈ X}, where X is the property that the elements must satisfy to be in the set.
+  
+Linear Algebra Introduction: Linear algebra is a branch of mathematics that deals with vectors, matrices, and linear transformations.
+  
+Functions: A function is a rule that associates each element in a set A (called the domain) with a unique element in another set B (called the range). The function is denoted by a letter, such as F, and for each element x in A, the function F assigns an output, 
+  which is written as F(x).
+  
+Relations: A relation R between two sets A and B is a collection of ordered pairs (a, b) where a is in A and b is in B.
+  
+Power Sets: The power set of a set A is the collection of all subsets of A. The number of subsets of a set with n elements is 2 raised to the power of n. 
+  
+Domain and Range of a Function: The domain of a function is the set of all possible inputs (x-values), and the range is the set of all possible outputs (y-values). 
+  
+One-to-One Functions vs. Many-to-One Functions: A one-to-one function is a function where each input is associated with exactly one output. A many-to-one function is a function where one input can be associated with multiple outputs.
+  
+Linear Regression: Linear regression is a statistical method that models the relationship between a dependent variable and one or more independent variables using a linear function.
