@@ -1,4 +1,4 @@
-On Day 4 the instructor taught about Numbers and many other topics that will be explained bellow.
+On Day 4 the instructor taught about Numbers and many other topics that will be explained below.
 
 Video: https://youtu.be/1Htz31TmxKE?si=U4dvo7Fjg5agD3nx
 
@@ -21,14 +21,14 @@ Topics Covered:
     Venn diagrams use circles to show relationships between sets.
     Sets are the building blocks for many areas of math!
 
-3. Matrix: A rectangular array of mxn number in the form of m horizontal known as Row and n vertical known as Column lines.
-      Construst a 3x4 matrix:
+3. Matrix: A rectangular array of mxn numbers in the form of m horizontal known as Row and n vertical known as Column lines.
+      Construct a 3x4 matrix:
                     1 2 3 4
                     2 3 4 5
                     3 4 5 6
       Types of Matrices:
                 Row => The matrix that has value in only the Row with 1 column
-                Column => Similar to the Row but has values in column with 1 Row
+                Column => Similar to the Row but has values in a column with 1 Row
                 Zero => When all the values of the matrix are 0
                 Singleton => if it has only 1 value no column and row
                 Horizontal => A horizontal matrix is a matrix where the entries are arranged in rows
@@ -36,10 +36,33 @@ Topics Covered:
                 Square => A square matrix is a matrix that has the same number of rows and columns
                 Diagonal => A diagonal matrix is a square matrix where all the elements except the principal diagonal are zero
                 Scalar => A scalar matrix is a diagonal matrix where all the elements in the diagonal are equal
-                Unit => An unit matrix is a diagonal matrix where all the elements in the diagonal are one
+                Unit => A unit matrix is a diagonal matrix where all the elements in the diagonal are one
                 Triangular => A triangular matrix is a square matrix where all the elements above or below the principal diagonal are zero
                   * Upper => An upper triangular matrix has zeros below the principal diagonal
                   * Lower => A lower triangular matrix has zeros above the principal diagonal
                 Singular => A singular matrix is a square matrix with a special property: its determinant is zero.
                 Symmetric => A symmetric matrix is a square matrix where the elements above the principal diagonal are equal to the corresponding elements below the principal diagonal
                 Transpose => The transpose of a matrix is found by interchanging its rows into columns or columns into rows.
+
+4. Addition of matrices / Laws:
+                (1) Commutative Law of Addition	 A+B=B+A
+ 
+                (2) Associative Law of Addition	 A+(B+C)=(A+B)+C
+ 
+                (3) Distributive Law of a Scalar over Matrices c(A+B)=cA+cB, where  c∈R.
+ 
+                (4) Distributive Law of Scalars over a Matrix	 (c1+c2)A=c1A+c2A, where  c1,c2∈R.
+ 
+                (5) Associative Law of Scalar Multiplication	 c1(c2A)=(c1⋅c2)A, where  c1,c2∈R.
+
+5. Statistic:
+     When it comes to statistics we work with two things
+        * Population: Considering the whole of anything
+        * Sample: Considering a little of anything
+
+    Variable/Feature:
+        Quantitative/ Measurable: Things that can be measured in numbers
+        Qualitative / Categorical: Things that are measured by expressions
+
+        Discrete: Discrete variables represent counts (e.g. the number of objects in a collection)
+        Continuous: Continuous variables represent measurable amounts (e.g. water volume or weight, height).
