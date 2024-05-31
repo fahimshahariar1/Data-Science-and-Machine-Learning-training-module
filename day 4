@@ -1,0 +1,45 @@
+On Day 4 the instructor taught about Numbers and many other topics that will be explained bellow.
+
+Video: https://youtu.be/1Htz31TmxKE?si=U4dvo7Fjg5agD3nx
+
+Topics Covered:
+
+1. Types of numbers and their annotations:
+    Z = Integers/Whole Numbers => {-3,-2,-1,0,1,2,3}
+    N = Natural Numbers => {1,2,3,4}
+    Q = Rational Numbers => {3/2, 3.1415}
+    R = Real Numbers => {Any number srt 2, pi, e}
+    C = Complex Numbers => Can be written in  the form a+ib where [i = sqrt1]
+
+2. Set Theory: 
+    Set theory studies collections of objects called sets. Imagine a box (set) holding things (elements).
+    Sets are written in curly braces { }.
+    Elements are listed inside, separated by commas. {1, 2, 3} is a set.
+    Order doesn't matter: {2, 1, 3} is the same set.
+    Duplicates don't count: {1, 1, 2} is the same as {1, 2}.
+    Subsets are like smaller boxes within a bigger box.
+    Venn diagrams use circles to show relationships between sets.
+    Sets are the building blocks for many areas of math!
+
+3. Matrix: A rectangular array of mxn number in the form of m horizontal known as Row and n vertical known as Column lines.
+      Construst a 3x4 matrix:
+                    1 2 3 4
+                    2 3 4 5
+                    3 4 5 6
+      Types of Matrices:
+                Row => The matrix that has value in only the Row with 1 column
+                Column => Similar to the Row but has values in column with 1 Row
+                Zero => When all the values of the matrix are 0
+                Singleton => if it has only 1 value no column and row
+                Horizontal => A horizontal matrix is a matrix where the entries are arranged in rows
+                Vertical => A vertical matrix is a matrix where the entries are arranged in columns
+                Square => A square matrix is a matrix that has the same number of rows and columns
+                Diagonal => A diagonal matrix is a square matrix where all the elements except the principal diagonal are zero
+                Scalar => A scalar matrix is a diagonal matrix where all the elements in the diagonal are equal
+                Unit => An unit matrix is a diagonal matrix where all the elements in the diagonal are one
+                Triangular => A triangular matrix is a square matrix where all the elements above or below the principal diagonal are zero
+                  * Upper => An upper triangular matrix has zeros below the principal diagonal
+                  * Lower => A lower triangular matrix has zeros above the principal diagonal
+                Singular => A singular matrix is a square matrix with a special property: its determinant is zero.
+                Symmetric => A symmetric matrix is a square matrix where the elements above the principal diagonal are equal to the corresponding elements below the principal diagonal
+                Transpose => The transpose of a matrix is found by interchanging its rows into columns or columns into rows.
