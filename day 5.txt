@@ -1,0 +1,27 @@
+On day 5 we leared about Statistics and mainly different topics from Statistics
+
+Video: https://youtu.be/J2x9xB5Gre0?si=SETne1q_EtmcTAW8
+
+Topics Covered: 
+
+1. Data:
+    * Numerical / Quantitative
+    * Categorical / Qualititative
+
+  Numerical Data:
+      * Discrete --> Any whole number (1, 2, 3)
+      * Contunuous --> Any value within a specified range (CGPA, Height)
+
+  Categorical:
+      * Atribute / Dichtomous --> Values that has two categories (yes/no, dead/alive)
+      * Nominal --> Can not be ordered in any way (hair color)
+      * Ordinal --> Can be ordered (class roles)
+
+2. Cumulative Frequency Table: In Statistics, a cumulative frequency is defined as the total of frequencies, that are distributed over different class intervals. 
+    It means that the data and the total are represented in the form of a table in which the frequencies are distributed according to the class interval
+
+3. Mean: The sum of all values divided by number of values
+4. Median: The middle value when the values are arranged in an order
+5. Median: THe most commonly ocuring value
+
+6. Variance: a statistical measurement of the spread between numbers in a data set.
