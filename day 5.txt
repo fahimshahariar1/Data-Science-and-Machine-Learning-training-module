@@ -25,3 +25,4 @@ Topics Covered:
 5. Median: THe most commonly ocuring value
 
 6. Variance: a statistical measurement of the spread between numbers in a data set.
+7. Standard Deviation: Square root of variance.
