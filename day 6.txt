@@ -1,0 +1,28 @@
+On day 6 we continue learning the fundamentals of different mathematic terms.
+
+https://youtu.be/-5065odeWNI?si=Ae3Kt1SVitFgA4ug
+  
+  Here are the steps covered in the video lecture:
+
+Summarizing the data set [1:18]: This is the first step whenever you approach any data science or machine learning problem. The main idea is to get a sense of the data you are working with. People are usually not interested in reading every detail of a large data set; they just want to understand what it means.
+    
+Statistical Inference [1:45]: This is the second step of data analysis. It is used to draw conclusions about a population based on a sample. Inferential statistics attempt to summarize some key features of the data to make them understandable and easy to communicate.
+    
+Types of variables [2:10]: There are two main types of variables: continuous and discrete. A continuous variable can take any value within a certain interval. For example, height can be a continuous variable. A discrete variable can only take a certain set of values. For example, the number of books in a library is a discrete variable.
+    
+Sample distribution [2:31]: This refers to the distribution of the values of a variable in a sample. You can visualize this with a table or chart showing the number of times each value appears in the data set.
+    
+Frequency table [3:11]: This is a table that shows the number of times each value of a variable appears in a data set. It is a way to summarize a sample distribution.
+    
+Grouping data [3:21]: When you have a sample with many values, it can be impractical to create a frequency table for every possible value. In this case, you can group the values into intervals and create a table or chart that shows the number of times each interval appears in the data set.
+    
+Skewness [3:41]: This refers to the asymmetry of a distribution. A distribution is positively skewed if there are more values in the lower tail than in the upper tail. A distribution is negatively skewed if there are more values in the upper tail than in the lower tail.
+    
+Measures of central tendency [4:10]: These are used to summarize the center of a distribution. The most common measure of central tendency is the mean, which is the average of all the values in a data set. Another measure of central tendency is the median, which is the middle value when the data is ordered from least to greatest.
+    
+Measures of dispersion [4:40]: These are used to summarize the spread of a distribution. The most common measure of dispersion is the variance, which is the average of the squared deviations from the mean. Another measure of dispersion is the standard deviation, which is the square root of the variance.
+    
+Time series plots [5:10]: These are used to visualize data that is collected over time. A time series plot is a line graph that shows the values of a variable plotted against time.
+    
+Probability [5:40]: This is a branch of mathematics that deals with random events. Probability is used to quantify the likelihood that a particular event will occur. There are two main types of probability: classical probability and subjective probability. 
+Classical probability is based on the idea that all possible outcomes of an event are equally likely. Subjective probability is a measure of a person's belief about the likelihood of an event.
