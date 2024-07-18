@@ -1,0 +1,35 @@
+On day 7 the instructor continued teaching about many other important topics of statistics 
+
+  video: https://youtu.be/agJgZd8Yx-o
+
+
+Here are the key points covered in the video along with step-by-step bullet points:
+
+Exploratory Data Analysis [EDA]
+
+EDA is a technique to understand the data by summarizing the data and identifying patterns and trends.
+Basic Statistics
+
+There are three main types of measures of central tendency: mean, median, and mode.
+
+Mean: The average of a set of numbers. It is calculated by adding all the numbers and then dividing by the number of numbers.
+Median: The middle value when the numbers are listed in order from smallest to largest. If there are two middle numbers, the median is the mean of those two numbers.
+Mode: The most frequent value in a set of numbers.
+There are two measures of dispersion: variance and standard deviation.
+
+Variance: The average of the squared deviations from the mean.
+Standard deviation: The square root of the variance.
+Correlation coefficient: It is a measure of the linear relationship between two variables. It can be positive, negative, or zero.
+
+Positive correlation: As the value of one variable increases, the value of the other variable also increases.
+Negative correlation: As the value of one variable increases, the value of the other variable decreases.
+Zero correlation: There is no linear relationship between the two variables.
+Linear Regression
+
+It is a statistical method used to model the relationship between a dependent variable and one or more independent variables.
+The equation for a simple linear regression model is: Y = β₀ + β₁X + ε
+Y is the dependent variable.
+X is the independent variable.
+β₀ is the y-intercept.
+β₁ is the slope of the regression line.
+ε is the error term.
