@@ -1,0 +1,15 @@
+On day 8 the instructor talked about linear regression.
+
+  video: https://youtu.be/C-v-NZ5uHbo
+
+This video is about advertising data and how it can be used to predict future sales. Here are the key points covered in the video in step-by-step bullet points:
+
+The video starts by discussing the relationship between advertising budget and sales. It asks the question of how accurately we can estimate the effect of each media (TV, radio) for every spend on advertising.
+It then goes on to explain how a model can be created to predict future sales based on past advertising data. This model is called a linear regression model and it is represented by the equation: Y = β₀ + β₁X₁.
+In this equation, Y is the predicted sales, β₀ is the constant term, β₁ is the coefficient of the advertising variable (X₁), and X₁ is the advertising expenditure.
+The video then explains how the coefficients β₀ and β₁ can be estimated using a method called ordinary least squares (OLS). This method minimizes the sum of squared errors between the predicted sales and the actual sales.
+Once the coefficients are estimated, the model can be used to predict future sales for a given level of advertising expenditure.
+The video also discusses the concept of R-squared, which is a statistic that measures how well the model fits the data. An R-squared value close to one indicates that the model explains a large proportion of the variability in the sales data.
+The video then goes on to discuss multiple linear regression, which is an extension of linear regression that can be used to model the relationship between sales and multiple advertising variables (e.g., TV advertising, radio advertising, newspaper advertising).
+The process of building a multiple linear regression model involves selecting the variables that have the most significant impact on sales. This can be done using a forward selection method, which involves adding variables to the model one at a time until the R-squared statistic no longer increases significantly.
+The video concludes by discussing some of the limitations of linear regression, such as the fact that it assumes a linear relationship between the variables. It also mentions some extensions of linear regression, such as principal component analysis
