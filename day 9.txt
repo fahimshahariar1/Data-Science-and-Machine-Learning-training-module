@@ -1,0 +1,46 @@
+on day 9 wew learned about non-linear regression and how to solve it.
+
+  video: https://youtu.be/MktL-waZrv0
+
+Topics Covered:
+
+Data Transformation
+
+Data transformation is a process of changing the data to make it more suitable for analysis.
+One reason for data transformation is to linearize the relationship between variables.
+Another reason for data transformation is to make the data more normally distributed.
+Common data transformations include:
+Log transformation
+Square root transformation
+Cube root transformation
+Reciprocal transformation
+The choice of data transformation depends on the specific data set and the desired outcome.
+Example 1: Car Braking Distance
+
+The data set contains information about the speed of a car and the distance it takes to stop.
+The relationship between speed and stopping distance is not linear.
+Taking the square root of the stopping distance linearizes the relationship.
+Example 2: Blood Pressure
+
+The data set contains information about the blood pressure, weight, and age of a group of males.
+The relationship between blood pressure and weight and age is linear.
+The estimated regression equation is:
+Blood pressure = -65.1 + 1.08 * weight + 0.425 * age
+This equation means that for every one unit increase in weight, blood pressure increases by 1.08 units, holding age constant.
+Similarly, for every one unit increase in age, blood pressure increases by 0.425 units, holding weight constant.
+Model Assessment
+
+The estimated regression coefficients and their standard errors are:
+Intercept: -65.1 ± 25.09
+Weight: 1.08 ± 1.77
+Age: 0.425 ± 0.95
+The R-squared value is 0.958, which means that 95.8% of the variability in blood pressure is explained by weight and age.
+The residuals are the difference between the actual blood pressure and the predicted blood pressure.
+The residuals should be normally distributed with a mean of zero and constant variance.
+The residuals can be plotted against the predicted values to check for any patterns.
+Conclusion
+
+Data transformation is an important step in data analysis.
+It can be used to linearize relationships and make data more normally distributed.
+The choice of data transformation depends on the specific data set and the desired outcome.
+Model assessment is important to ensure that the model is a good fit for the data.
