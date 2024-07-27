@@ -43,4 +43,7 @@ Conclusion
 Data transformation is an important step in data analysis.
 It can be used to linearize relationships and make data more normally distributed.
 The choice of data transformation depends on the specific data set and the desired outcome.
-Model assessment is important to ensure that the model is a good fit for the data.
+Model assessment is important to ensure that the model is a good fit for the data.]
+
+
+In this lecture we also started the introducton to machine learning 
