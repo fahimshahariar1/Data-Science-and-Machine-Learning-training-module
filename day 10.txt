@@ -1,0 +1,45 @@
+On day 10 we continue learning and discussing about the basics of Machine Learning
+
+  video: https://youtu.be/iwk3O12-B9M
+
+Topics Covered:
+
+The lecture starts with an overview of machine learning, supervised machine learning, and unsupervised machine learning.
+
+Machine Learning
+
+
+Supervised machine learning is a type of machine learning where the algorithm is trained on a labeled dataset.   
+The labeled dataset contains input data and the corresponding output or target variable.   
+The algorithm learns to map the input data to the output variable.
+Supervised machine learning can be used for classification and regression problems.
+Unsupervised Machine Learning
+
+Unsupervised machine learning is a type of machine learning where the algorithm is trained on an unlabeled dataset.   
+The algorithm finds patterns in the data without being given any specific guidance.
+Unsupervised machine learning can be used for clustering and dimensionality reduction.
+Reinforcement Learning
+
+Reinforcement learning is a type of machine learning where the algorithm learns to make decisions by interacting with an environment.
+The algorithm receives rewards or penalties for its actions.
+The goal of the algorithm is to learn a policy that maximizes the cumulative reward.
+Reinforcement learning is used in robotics and game playing.
+Supervised Machine Learning
+
+Supervised machine learning can be used for classification and regression problems.
+Classification is the process of predicting a categorical label for a given input.
+Regression is the process of predicting a numerical value for a given input.
+Examples of classification problems include spam detection, image recognition, and customer churn prediction.
+Examples of regression problems include price prediction, demand forecasting, and fraud detection.
+Dimensionality Reduction
+
+Dimensionality reduction is the process of reducing the number of features in a dataset.
+This can be done to improve the performance of machine learning algorithms and to visualize the data.
+Common dimensionality reduction techniques include principal component analysis (PCA) and t-distributed stochastic neighbor embedding (t-SNE).   
+Conclusion
+
+Machine learning is a powerful tool that can be used to solve a variety of problems.
+Supervised machine learning is a type of machine learning where the algorithm is trained on a labeled dataset.
+Unsupervised machine learning is a type of machine learning where the algorithm is trained on an unlabeled dataset.
+Reinforcement learning is a type of machine learning where the algorithm learns to make decisions by interacting with an environment.
+Dimensionality reduction is the process of reducing the number of features in a dataset
