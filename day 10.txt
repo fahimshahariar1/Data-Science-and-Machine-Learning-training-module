@@ -8,12 +8,12 @@ The lecture starts with an overview of machine learning, supervised machine lear
 
 Machine Learning
 
+Machine learning is a field of computer science that gives computers the ability to learn without being explicitly programmed.
+Machine learning algorithms can learn from data and make predictions or decisions without being explicitly programmed to perform the task.   
+Machine learning is used in a variety of applications, such as image recognition, natural language processing, and fraud detection.   
+Supervised Machine Learning
 
-Supervised machine learning is a type of machine learning where the algorithm is trained on a labeled dataset.   
-The labeled dataset contains input data and the corresponding output or target variable.   
-The algorithm learns to map the input data to the output variable.
-Supervised machine learning can be used for classification and regression problems.
-Unsupervised Machine Learning
+
 
 Unsupervised machine learning is a type of machine learning where the algorithm is trained on an unlabeled dataset.   
 The algorithm finds patterns in the data without being given any specific guidance.
