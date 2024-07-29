@@ -33,8 +33,3 @@ Understand the difference between supervised and unsupervised machine learning.
 Learn about distribution estimation and finding associations.
 Explore different software options for machine learning.
 Consider hardware requirements for running machine learning models.
-Additional Information:
-
-The video quality and audio quality are not ideal.
-The lecturer's speaking style is clear and easy to follow.
-The content is informative and covers a range of topics related to machine learning.
