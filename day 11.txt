@@ -9,31 +9,25 @@ Topics Covered:
   Unsupervised machine learning involves finding patterns in unlabeled data.
     
 2. Distribution Estimation:
-Involves estimating the probability distribution of data.
-Can be used for classification, regression, and anomaly detection.
-Finding Associations:
-Involves finding relationships between variables in data.
-Can be used for market basket analysis and recommendation systems.
-Software for Machine Learning:
-Integrated Development Environments (IDEs):
-Provide tools for writing and running code.
-Examples: PyCharm, Visual Studio Code, RStudio.
-Machine Learning Libraries:
-Provide pre-built algorithms and functions.
-Examples: Scikit-learn, TensorFlow, Keras.
-Cloud-based platforms:
-Provide access to computing resources and machine learning tools.
-Examples: Google Colab, Amazon SageMaker, Azure Machine Learning.
-Hardware Requirements:
-Minimum requirements for running machine learning software.
-Recommended specifications for better performance.
-Additional Notes:
-The lecturer apologizes for technical difficulties and audio quality issues.
-The lecturer mentions a previous question about downloading software.
-The lecturer thanks someone for their question.
-The lecturer mentions a project related to agricultural technology adoption.
-The lecturer mentions using statistical software for data analysis.
-Key Points:
+    Involves estimating the probability distribution of data.
+    Can be used for classification, regression, and anomaly detection.
+
+3. Finding Associations:
+    Involves finding relationships between variables in data.
+    Can be used for market basket analysis and recommendation systems.
+
+4. Software for Machine Learning:
+    Integrated Development Environments (IDEs):
+    Provide tools for writing and running code.
+    Examples: PyCharm, Visual Studio Code, RStudio.
+
+5. Machine Learning Libraries:
+    Provide pre-built algorithms and functions.
+    Examples: Scikit-learn, TensorFlow, Keras.
+
+6. Cloud-based platforms:
+    Provide access to computing resources and machine learning tools.
+    Examples: Google Colab, Amazon SageMaker, Azure Machine Learning.
 
 Understand the difference between supervised and unsupervised machine learning.
 Learn about distribution estimation and finding associations.
