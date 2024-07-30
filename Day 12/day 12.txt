@@ -1,0 +1,24 @@
+On day 12 the instructor have started discussing about the Basics of Python.
+
+  video: https://youtu.be/Fe71tAFZbPI
+
+Topics Covered:
+
+Basic Python Syntax:
+Variables: Containers for storing data values.
+Arithmetic operations: Addition, subtraction, multiplication, division.
+Data types: Numbers (integers, floats, complex numbers).
+  
+Lists:
+Ordered collections of items.
+Can contain items of different data types.
+Can be accessed using indices.
+  
+Boolean Operations:
+Logical operators (and, or, not).
+Used for making comparisons and decisions.
+  
+Data Types:
+Numbers: Integers, floats, complex numbers.
+Lists: Ordered collections of items.
+Booleans: True or False values.
