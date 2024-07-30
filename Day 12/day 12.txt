@@ -1,4 +1,4 @@
-On day 12 the instructor have started discussing about the Basics of Python.
+On day 12 the instructor started discussing the Basics of Python.
 
   video: https://youtu.be/Fe71tAFZbPI
 
@@ -22,3 +22,5 @@ Data Types:
 Numbers: Integers, floats, complex numbers.
 Lists: Ordered collections of items.
 Booleans: True or False values.
+
+We also did some basic coding inside Jupiter Notebook. Basics of Python and setting up Anaconda and Jupiter Notebook
