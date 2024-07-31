@@ -1,0 +1,37 @@
+on day 13 we are continuing to discuss about the basics of python.
+
+video: https://youtu.be/JnhM4Zlyoow
+
+Topics Covered:
+
+Basic Python Syntax:
+Variables: Containers for storing data values.
+Arithmetic operations: Addition, subtraction, multiplication, division.
+Data types: Numbers (integers, floats, complex numbers), strings, lists, booleans.
+  
+Control Flow:
+Conditional statements (if, else, elif).
+Loops (for, while).
+  
+Functions:
+Reusable blocks of code.
+Defined using the def keyword.
+Can take arguments and return values.
+  
+Data Structures:
+Lists: Ordered collections of items.
+Tuples: Immutable ordered collections of items.
+Dictionaries: Unordered collections of key-value pairs.
+  
+Statistical Concepts:
+Factorial design: Experimental design technique.
+Split plot design: Experimental design technique.
+Significance level: Probability of rejecting a true null hypothesis.
+
+  
+Key Points:
+Understand basic Python syntax for variables, arithmetic operations, and data types.
+Learn about control flow statements (if, else, elif, for, while).
+Create and use functions in Python.
+Explore different data structures (lists, tuples, dictionaries).
+Understand basic statistical concepts (factorial design, split plot design, significance level).
