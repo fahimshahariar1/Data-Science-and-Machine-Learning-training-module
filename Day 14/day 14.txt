@@ -1,0 +1,43 @@
+On day 14 we continue learning about the basics of Python.
+
+  Video: https://youtu.be/Btqxu7UpGAY
+
+Topics Covered:
+
+Floating-Point Numbers:
+Representation of real numbers in computers.
+Examples of floating-point expressions and calculations.
+  
+Basic Functions:
+Power function: Calculating exponents.
+Round function: Rounding numbers to specified decimal places.
+Absolute value function: Finding the absolute value of a number.
+  
+Scientific Notation:
+Representing very large or very small numbers.
+Examples of scientific notation.
+  
+String Manipulation:
+Creating and using strings.
+String formatting options.
+  
+Boolean Data Type:
+True and False values.
+Logical operations.
+  
+Type Conversion:
+Converting between different data types (float to integer, integer to float, string to float).
+  
+Math Package:
+Importing the math module.
+Using math functions (pi, square root).
+  
+Key Points:
+
+Understand floating-point numbers and their limitations.
+Learn basic Python functions for mathematical operations.
+Use scientific notation for representing large or small numbers.
+Work with strings and string formatting.
+Use Boolean values and logical operations.
+Convert between different data types.
+Utilize the math module for mathematical calculations.
