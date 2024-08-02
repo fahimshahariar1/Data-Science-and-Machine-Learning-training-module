@@ -1,3 +1,28 @@
 On Day 15 there's nothing new taught by the instructor. We just continued to learn about the basics again.
 
   Video: https://youtu.be/quuC2KV0TgA
+
+Topics Covered:
+
+Data Types:
+Numeric data types: integers, floats, complex numbers.
+Sequence data types: lists, tuples, strings, range.
+Mapping data types: dictionaries.
+Set data types: sets, frozen sets.
+
+Variables:
+Creating and assigning values to variables.
+Reassigning values to variables.
+Multiple assignments.
+Global and local variables.
+
+Basic Operations:
+Arithmetic operations: addition, subtraction, multiplication, division.
+String manipulation: concatenation, indexing, slicing.
+List operations: indexing, slicing, appending, removing elements.
+
+Key Points:
+
+Understand different data types in Python.
+Learn how to create and use variables.
+Perform basic operations on data types.
