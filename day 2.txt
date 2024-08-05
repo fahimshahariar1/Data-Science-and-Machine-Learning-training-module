@@ -1,6 +1,6 @@
-on Day 2 the instructor gave us introduction to some of the Mathametics and basic terms that will be required dunring this course and further for Data Science and Machine Learning.
+on Day 2 the instructor gave us an introduction to some of the Mathematics and basic terms that will be required during this course and further for Data Science and Machine Learning.
 
-  Tutorial Link: https://youtu.be/mFNzmQ_gC2o
+Video: https://youtu.be/mFNzmQ_gC2o
 
 Topics Covered:
 
