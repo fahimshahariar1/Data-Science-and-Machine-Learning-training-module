@@ -1,14 +1,14 @@
 Day 1
 
-My final goal from this training is to become an AI Engineer in the future. To become an AI Engineer there is a pathway that needs to be followed.
+  My final goal from this training is to become an AI Engineer in the future. To become an AI Engineer there is a pathway that needs to be followed.
   Which is Data Science--> Machine Learning --> Deep Learning --> AI (Artifical Intelligence)
   From that point of view, we are starting to learn Data Science and Machine Learning.
-on Day 1 we just had an introduction to Data Science and Machine Learning. 
-Like what is Data science? How does it work? How it came and everything.
+  on Day 1 we just had an introduction to Data Science and Machine Learning. 
+  Like what is Data science? How does it work? How it came and everything.
 
   For this training module, I am using a YouTube playlist from Dr. Nur Al Ahad and his course on Data science and machine learning
 
-https://youtu.be/J3Cq8QDdXbA
+video: https://youtu.be/J3Cq8QDdXbA
 
   This is the video of the first lecture.
 
