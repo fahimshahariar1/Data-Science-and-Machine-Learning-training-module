@@ -1,0 +1,15 @@
+On day 16 we continue learning about Python and its basics
+
+  video: https://youtu.be/zUFC23av9-w
+
+Topics Covered:
+
+Python Basics:
+Equality and Boolean statements: using comparison operators (==, !=, <, >, <=, >=) and logical operators (and, or, not).
+Data types: numbers (integers, floats), strings, lists.
+Input and output: using the input() function to get user input and the print() function to display output.
+Control flow: using if-else statements for conditional execution.
+Loops: using for and while loops for repetitive tasks.
+List operations: accessing elements, modifying elements, adding and removing elements.
+Key Points:
+
