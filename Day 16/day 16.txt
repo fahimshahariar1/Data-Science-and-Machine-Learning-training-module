@@ -13,3 +13,8 @@ Loops: using for and while loops for repetitive tasks.
 List operations: accessing elements, modifying elements, adding and removing elements.
 Key Points:
 
+Understand how to use comparison operators and logical operators to create Boolean expressions.
+Work with different data types in Python.
+Use input and output functions to interact with the user.
+Control program flow using if-else statements and loops.
+Manipulate lists effectively.
