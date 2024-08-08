@@ -2,3 +2,44 @@ On day 17 we learned about math operations.
   We also discussed about the Math, numpy and sumpy packages
     
 video: https://youtu.be/Am4if9faSOg
+
+Topics Covered:
+
+Basic Math Operations:
+Addition, subtraction, multiplication, division.
+Order of operations (PEMDAS).
+Importing Math Module:
+Using the import math statement.
+Accessing math functions like pi, sqrt, sin, cos, tan.
+
+Scientific Notation:
+Representing large and small numbers using exponents.
+
+String Manipulation:
+Creating and using strings.
+String formatting.
+Escape sequences.
+
+Data Types:
+Numbers (integers, floats, complex numbers).
+Strings.
+Booleans.
+Lists.
+Tuples.
+Dictionaries.
+Control Flow:
+Conditional statements (if, else, elif).
+Loops (for, while).
+
+Functions:
+Defining and using functions.
+Function parameters and return values.
+
+Key Points:
+Understand basic math operations and the order of operations.
+Import the math module and use its functions.
+Work with scientific notation.
+Manipulate strings effectively.
+Use different data types in Python.
+Control program flow using conditional statements and loops.
+Create and use functions.
