@@ -1,0 +1,4 @@
+On day 17 we learned about math operations.
+  We also discussed about the Math, numpy and sumpy packages
+    
+video: https://youtu.be/Am4if9faSOg
