@@ -7,18 +7,33 @@ Topics Covered:
 Assignment Operators:
 Simple assignment (=): Assigns a value to a variable.
 Arithmetic assignment (+=, -=, *=, /=, %=): Performs an arithmetic operation and assigns the result to the variable.
+
 Comparison Operators:
 Equal to (==), not equal to (!=), greater than (>), less than (<), greater than or equal to (>=), less than or equal to (<=).
+
 Logical Operators:
 And (and), or (or), not (not).
   
 Membership Operators:
 In (in), not in (not in).
+
 Identity Operators:
 Is (is), is not (is not).   
+
 Conditional Statements:
 If-else statements.
 Nested if-else statements.
+
 Loops:
 For loops.
 While loops.
+
+
+Key Points:
+Understand different types of assignment operators.
+Use comparison operators to compare values.
+Combine conditions using logical operators.
+Check for membership in sequences using membership operators.
+Compare object identities using identity operators.
+Make decisions using conditional statements.
+Create loops for repetitive tasks.
