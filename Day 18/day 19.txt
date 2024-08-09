@@ -12,3 +12,13 @@ Equal to (==), not equal to (!=), greater than (>), less than (<), greater than 
 Logical Operators:
 And (and), or (or), not (not).
   
+Membership Operators:
+In (in), not in (not in).
+Identity Operators:
+Is (is), is not (is not).   
+Conditional Statements:
+If-else statements.
+Nested if-else statements.
+Loops:
+For loops.
+While loops.
