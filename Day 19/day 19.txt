@@ -2,3 +2,12 @@ On day 19 we continue learning about Numpy package
 Numpy = Numerical Python
 
 video: https://youtu.be/viuZiRAjdQY
+
+Topics Covered:
+
+Introduction to Data:
+
+Defines data as systematic records of specific quantities.
+Data is a collection of facts and figures.
+Data processing cycle involves input, process, output, and storage.
+Data analysis uses quantitative analysis and statistical tools.
