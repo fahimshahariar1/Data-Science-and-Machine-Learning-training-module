@@ -1,1 +1,4 @@
+On day 19 we continue learning about Numpy package
+Numpy = Numerical Python
 
+video: https://youtu.be/viuZiRAjdQY
