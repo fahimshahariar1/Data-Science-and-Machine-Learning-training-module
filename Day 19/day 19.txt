@@ -15,3 +15,11 @@ Data analysis uses quantitative analysis and statistical tools.
 NumPy Package:
 Introduces NumPy as a numerical Python package.
 NumPy is used for various calculations and data manipulation.
+
+
+Key Points:
+
+Understand the basic concept of data.
+Learn about the data processing cycle.
+Know the importance of data analysis.
+Introduce the NumPy package for numerical computations.
