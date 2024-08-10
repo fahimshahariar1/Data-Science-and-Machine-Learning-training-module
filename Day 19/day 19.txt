@@ -11,3 +11,7 @@ Defines data as systematic records of specific quantities.
 Data is a collection of facts and figures.
 Data processing cycle involves input, process, output, and storage.
 Data analysis uses quantitative analysis and statistical tools.
+
+NumPy Package:
+Introduces NumPy as a numerical Python package.
+NumPy is used for various calculations and data manipulation.
