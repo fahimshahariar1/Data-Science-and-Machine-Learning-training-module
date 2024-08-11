@@ -1,3 +1,32 @@
 On day 20 we learned about Pandas. Another very important library when you are working with DATA SCIENCE and MACHINE LEARNING
 
 video: https://youtu.be/HOBNdgNizX8
+
+Topics Covered: 
+
+Key Points:
+
+Introduction to Pandas:
+Pandas is a Python library used for data manipulation and analysis.
+It is pre-installed in the Jupyter Notebook.
+Import Pandas using import pandas as pd.
+
+Data Structures in Pandas:
+Pandas primarily use two data structures: Series and DataFrames.
+A series is a one-dimensional labeled array.
+DataFrame is a two-dimensional labeled data structure with columns of potentially different types.
+
+Creating DataFrames:
+DataFrames can be created from various data sources like lists, dictionaries, and CSV files.
+
+Basic DataFrame Operations:
+Accessing data using column names and indexing.
+Selecting rows and columns.
+Filtering data based on conditions.
+Sorting data.
+Grouping data.
+Data Manipulation:
+Handling missing values.
+Renaming columns.
+Adding and removing columns.
+Concatenating and merging DataFrames.
