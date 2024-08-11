@@ -1,1 +1,3 @@
 On day 20 we learned about Pandas. Another very important library when you are working with DATA SCIENCE and MACHINE LEARNING
+
+video: https://youtu.be/HOBNdgNizX8
