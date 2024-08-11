@@ -1,5 +1,7 @@
 On day 20 we learned about Pandas. Another very important library when you are working with DATA SCIENCE and MACHINE LEARNING
 
+Pandas is a software library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series.
+
 video: https://youtu.be/HOBNdgNizX8
 
 Topics Covered: 
