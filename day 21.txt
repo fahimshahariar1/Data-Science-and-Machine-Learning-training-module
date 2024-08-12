@@ -1,3 +1,9 @@
 on Day 21 the instructor held a Q&A Session with the students
 
 video: https://youtu.be/wZs7vBZ6bno
+
+Key Points:
+Career Paths in Data Science and Machine Learning:
+Different roles in a data department: data engineer, data analyst, data scientist, machine learning engineer, AI engineer.
+The importance of practical experience through projects.
+The need for continuous learning and skill development.
