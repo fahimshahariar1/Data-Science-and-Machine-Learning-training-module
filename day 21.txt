@@ -12,3 +12,8 @@ Course Structure and Content:
 The course covers a range of topics from basic to intermediate level.
 The focus is on practical application through projects.
 Additional resources and materials will be provided.
+
+Student Questions and Concerns:
+Students inquired about the availability of full course recordings.
+Students expressed interest in additional courses, such as deep learning and SPSS.
+Students asked about the availability of project datasets.
