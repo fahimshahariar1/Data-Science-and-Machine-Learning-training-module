@@ -13,8 +13,24 @@ Categories: The different groups or items being compared.
 Bars: Rectangular shapes representing the categories.
 Length or height: The magnitude of the data for each category.
 Axes: The horizontal axis (x-axis) represents the categories, and the vertical axis (y-axis) represents the values.
+
 Types of Bar Plots
 Vertical bar plots: Bars are oriented vertically.
 Horizontal bar plots: Bars are oriented horizontally.
 Stacked bar plots: Multiple categories are stacked on top of each other for comparison within categories.
 Grouped bar plots: Multiple categories are grouped together for comparison across categories.
+
+A histogram is a graphical representation of the distribution of numerical data. It divides the data into intervals or bins and counts the number of data points that fall into each bin. The height of each bar represents the frequency of data points within that bin.
+
+Key Components of a Histogram:
+
+Bins: Intervals or ranges of data values.
+Frequency: The number of data points within each bin.
+X-axis: Represents the bins or intervals.
+Y-axis: Represents the frequency or count of data points.
+
+When to Use a Histogram:
+
+To understand the distribution of a dataset.
+To identify patterns, such as normality, skewness, or outliers.
+To compare distributions of different datasets.
