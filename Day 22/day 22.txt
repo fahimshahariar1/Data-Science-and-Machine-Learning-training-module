@@ -1,0 +1,4 @@
+on day 22 we went deep down in learning more about Matplotlib and its functionalities
+
+  video: https://youtu.be/fJBc4hwdEdY?list=PLwgviexBejXRAkxE7ZaMopan0KyPotJdD
+
