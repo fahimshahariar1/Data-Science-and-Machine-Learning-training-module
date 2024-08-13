@@ -68,3 +68,35 @@ Limitations of Pie Charts
 Difficult to compare specific slices, especially when there are many categories.
 Can be misleading if the slices are too similar in size.
 
+
+Box Plot:
+A box plot, also known as a box-and-whisker plot, is a graphical representation of the distribution of a dataset. It provides a visual summary of five key statistical measures:   
+
+Minimum: The smallest value in the dataset.
+First quartile (Q1): The value below which 25% of the data lies.
+Median (Q2): The middle value of the dataset.
+Third quartile (Q3): The value below which 75% of the data lies.
+Maximum: The largest value in the dataset.
+Components of a Box Plot
+Box: Represents the interquartile range (IQR), which contains the middle 50% of the data.
+Median line: A line within the box indicating the median value.
+Whiskers: Lines extending from the box to the minimum and maximum values (or sometimes to specific percentiles).
+Outliers: Individual data points that lie significantly outside the range of the other data.
+When to Use a Box Plot
+To visualize the distribution of data.
+To compare distributions of different datasets.
+To identify outliers.
+To assess data spread and skewness.
+
+Heat Map:
+A heatmap is a graphical representation of data where values are represented by colors. It's particularly useful for visualizing data across two variables, often represented on a grid. Warmer colors typically indicate higher values, while cooler colors represent lower values.
+
+Key Components
+Grid: The underlying structure of the heatmap, with rows and columns representing different categories or values.
+Color: Represents the magnitude of the data at each grid point.
+Color scale: Defines the mapping between data values and colors.
+When to Use Heatmaps
+Identifying patterns and trends in data.
+Comparing multiple variables simultaneously.
+Visualizing correlations between variables.
+Understanding the distribution of data across categories.
