@@ -1,4 +1,20 @@
-on day 22 we went deep down in learning more about Matplotlib and its functionalities
+on day 22 we went deep down to learn more about Matplotlib and its functionalities
 
   video: https://youtu.be/fJBc4hwdEdY?list=PLwgviexBejXRAkxE7ZaMopan0KyPotJdD
 
+Topics Covered:
+
+Normal Ploting:
+
+Bar Plot:
+A bar plot is a graphical representation of categorical data, where categories are represented by rectangular bars. The length or height of each bar is proportional to the value it represents.
+
+Categories: The different groups or items being compared.
+Bars: Rectangular shapes representing the categories.
+Length or height: The magnitude of the data for each category.
+Axes: The horizontal axis (x-axis) represents the categories, and the vertical axis (y-axis) represents the values.
+Types of Bar Plots
+Vertical bar plots: Bars are oriented vertically.
+Horizontal bar plots: Bars are oriented horizontally.
+Stacked bar plots: Multiple categories are stacked on top of each other for comparison within categories.
+Grouped bar plots: Multiple categories are grouped together for comparison across categories.
