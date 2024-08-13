@@ -49,3 +49,22 @@ To identify correlations between two variables.
 To explore potential relationships between variables.
 To detect outliers or unusual patterns in data.
 To compare distributions of different datasets.
+
+Pie chart:
+
+A pie chart is a circular statistical graphic which is divided into slices to illustrate numerical proportions. Each slice of the pie represents a category, and the size of the slice is proportional to the quantity it represents.   
+
+Key components of a pie chart:
+
+Circle: Represents the whole.
+Slices: Represent the parts of the whole.
+Labels: Indicate the category represented by each slice.
+Percentages: Often displayed within or near each slice to show the proportion.
+When to Use a Pie Chart
+To show how a whole is divided into different categories.
+To compare the relative sizes of different categories.
+When the number of categories is relatively small (typically 5 or fewer).
+Limitations of Pie Charts
+Difficult to compare specific slices, especially when there are many categories.
+Can be misleading if the slices are too similar in size.
+
