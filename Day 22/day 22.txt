@@ -20,6 +20,7 @@ Horizontal bar plots: Bars are oriented horizontally.
 Stacked bar plots: Multiple categories are stacked on top of each other for comparison within categories.
 Grouped bar plots: Multiple categories are grouped together for comparison across categories.
 
+Histogram:
 A histogram is a graphical representation of the distribution of numerical data. It divides the data into intervals or bins and counts the number of data points that fall into each bin. The height of each bar represents the frequency of data points within that bin.
 
 Key Components of a Histogram:
@@ -33,4 +34,18 @@ When to Use a Histogram:
 
 To understand the distribution of a dataset.
 To identify patterns, such as normality, skewness, or outliers.
+
+Scatter plot:
+A scatter plot is a graphical representation used to visualize the relationship between two numerical variables. Each data point is plotted as a point on a two-dimensional graph, with one variable represented on the x-axis and the other on the y-axis.
+
+Key Components:
+
+Data points: Represent individual observations.
+X-axis: Represents one variable.
+Y-axis: Represents the other variable.
+When to Use a Scatter Plot:
+
+To identify correlations between two variables.
+To explore potential relationships between variables.
+To detect outliers or unusual patterns in data.
 To compare distributions of different datasets.
