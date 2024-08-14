@@ -19,3 +19,11 @@ Pandas, NumPy, Matplotlib, and Seaborn are essential for EDA.
 Loading Data:
 Import data from various sources (e.g., CSV, Excel, databases).
 Use Pandas to read data into DataFrames.
+
+Explanation and Visualization:
+The importance of explaining EDA results and creating visualizations.
+The need for effective communication of findings.
+
+Course Structure:
+EDA will be covered in two lectures.
+Subsequent lectures will focus on machine learning topics.
