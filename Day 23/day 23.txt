@@ -1,0 +1,4 @@
+On day 23 we are getting on to working with data sets inside Jupiter notebook
+  and doing different operations on the data set
+
+  video: https://youtu.be/gBZrL5sXPcs
