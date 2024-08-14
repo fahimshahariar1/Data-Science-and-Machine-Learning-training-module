@@ -7,3 +7,8 @@ Topics Covered:
 Introduction to Exploratory Data Analysis (EDA):
 EDA is the process of understanding and summarizing data before analysis.
 It involves exploring data distributions, relationships between variables, and identifying patterns.
+
+Importance of EDA:
+Helps in making informed decisions about data cleaning and preprocessing.
+Provides insights into the underlying data structure.
+Facilitates feature engineering and model selection.
