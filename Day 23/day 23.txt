@@ -1,4 +1,9 @@
-On day 23 we are getting on to working with data sets inside Jupiter notebook
+On day 23 we are getting on to working with data sets inside the Jupiter notebook
   and doing different operations on the data set
 
   video: https://youtu.be/gBZrL5sXPcs
+
+Topics Covered: 
+Introduction to Exploratory Data Analysis (EDA):
+EDA is the process of understanding and summarizing data before analysis.
+It involves exploring data distributions, relationships between variables, and identifying patterns.
