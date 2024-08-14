@@ -12,3 +12,10 @@ Importance of EDA:
 Helps in making informed decisions about data cleaning and preprocessing.
 Provides insights into the underlying data structure.
 Facilitates feature engineering and model selection.
+
+Necessary Libraries:
+Pandas, NumPy, Matplotlib, and Seaborn are essential for EDA.
+
+Loading Data:
+Import data from various sources (e.g., CSV, Excel, databases).
+Use Pandas to read data into DataFrames.
