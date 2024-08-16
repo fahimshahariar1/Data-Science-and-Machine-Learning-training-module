@@ -16,3 +16,18 @@ The dataset contains daily Euro exchange rates.
 Use df.head() to view the first few rows of the DataFrame.
 Check the data types of columns using df.info().
 Get summary statistics using df.describe().
+
+4. Handling Missing Values:
+
+Check for missing values using df.isnull().sum().
+Decide how to handle missing values (e.g., imputation, removal).
+5. Data Cleaning and Preprocessing:
+
+Convert data types if necessary.
+Handle outliers or inconsistencies.
+Normalize or standardize data if needed.
+6. Data Visualization:
+
+Create visualizations to explore data distributions, relationships, and patterns.
+Use histograms, scatter plots, box plots, and other relevant plots.
+Analyze the output and draw conclusions.
