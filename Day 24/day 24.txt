@@ -1,1 +1,5 @@
+We continue to learn about EDA or Exploratory data analysis on day 24
+
+video: https://youtu.be/YvsDJZnQloo
+
 
