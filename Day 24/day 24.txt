@@ -3,3 +3,16 @@ We continue to learn about EDA or Exploratory data analysis on day 24
 video: https://youtu.be/YvsDJZnQloo
 
 
+Key Points:
+1. Importing Necessary Libraries:
+
+Import Pandas, NumPy, Matplotlib, and Seaborn for data manipulation, numerical operations, plotting, and statistical analysis.
+2. Loading the Dataset:
+
+Load the dataset into a Pandas DataFrame named df.
+The dataset contains daily Euro exchange rates.
+3. Exploring the Data:
+
+Use df.head() to view the first few rows of the DataFrame.
+Check the data types of columns using df.info().
+Get summary statistics using df.describe().
