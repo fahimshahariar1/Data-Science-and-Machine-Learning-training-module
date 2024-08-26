@@ -3,3 +3,12 @@ On day 25 we dive into deeper level of data science
   Today we worked on text based data from a news portal
 
   video: https://youtu.be/M9IkG7JmaVg
+
+We used many different new libraries today in order to do the EDA
+NLTK
+Sckikit-learn
+Gensim
+Pyldavis
+TextBlob
+Spacy
+Textstat
