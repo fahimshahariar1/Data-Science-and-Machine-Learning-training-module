@@ -12,3 +12,6 @@ Pyldavis
 TextBlob
 Spacy
 Textstat
+
+This is very important while working with this libraries is that it has to be updated and everything has to work well
+One suggestion that I would give is that if you are facing any issue then restart the kernel it might fix the issue most of the cases
