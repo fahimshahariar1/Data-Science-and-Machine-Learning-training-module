@@ -3,3 +3,24 @@ Research paper.
 Why it is Important? How can we do it? etc
 
 video: https://youtu.be/JjHZ-NRmngc
+
+Key Points:
+
+Importance of reading research papers:
+Research papers help understand how data science and machine learning are applied in various fields.
+They provide insights into different methodologies and techniques.
+Steps for reading research papers:
+Step 1: Read the title and abstract.
+Step 2: Read the introduction, literature review, and conclusion.
+Step 3: Read the data analysis methods.
+Step 4: Optionally, read the entire paper in detail.
+Research paper analysis:
+The lecturer discusses a specific research paper published in the journal "Frontiers in Health Economics".
+The paper focuses on the impact of microfinance on health outcomes in Bangladesh.
+EDA of banking data:
+The lecturer demonstrates how to conduct EDA on a dataset from a Bangladeshi bank.
+The goal is to understand the characteristics of the data and identify potential insights.
+Assignment:
+Students are given an assignment to conduct EDA on the provided banking dataset.
+The assignment involves exploring the data, identifying patterns, and drawing conclusions.
+The submission deadline is the following Friday at 10 PM Bangladesh time.
