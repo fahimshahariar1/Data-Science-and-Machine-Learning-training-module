@@ -1,0 +1,3 @@
+Day 27 is where we start learning about Machine learning after finishing basics of Data Science
+
+video: https://youtu.be/MDDa6fxNoQs
