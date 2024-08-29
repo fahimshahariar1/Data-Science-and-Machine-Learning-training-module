@@ -1,1 +1,29 @@
 Video: https://youtu.be/-UvNzivtVxE
+
+Topics Covered:
+
+Machine Learning: A field of artificial intelligence that enables computers to learn from data and improve their performance on a specific task without being explicitly programmed.
+Linear Regression: A statistical method used to model the relationship between a dependent variable and one or more independent variables.
+
+Types of Linear Regression:
+Simple Linear Regression: Involves one independent variable and one dependent variable.
+Multiple Linear Regression: Involves multiple independent variables and one dependent variable.
+  
+Steps in Linear Regression:
+Data Collection: Gather relevant data for the analysis.
+Data Exploration: Explore the data to understand its characteristics and identify any potential issues.
+Model Building: Construct the linear regression model by fitting a line to the data.
+Model Evaluation: Assess the model's performance using metrics like R-squared, mean squared error, and root mean squared error.
+Model Interpretation: Interpret the coefficients of the model to understand the relationship between the variables.
+Applications of Linear Regression:
+Predicting house prices based on features like size, location, and number of bedrooms.
+Forecasting sales based on marketing expenditures and economic indicators.
+Analyzing the relationship between income and education levels.
+
+Example:
+Predicting sales of a product based on advertising expenditures on different media (TV, radio, newspaper).
+
+Additional Notes:
+Linear regression assumes a linear relationship between the variables.
+It's important to check the assumptions of linear regression before applying it to the data.
+There are different variations of linear regression, such as logistic regression for classification problems.
